@@ -1,8 +1,6 @@
-import 'package:class_28_sept/constants/app_assets.dart';
-import 'package:class_28_sept/view/home_page_screen.dart';
+import 'package:class_28_sept/view/login_screen.dart';
 import 'package:class_28_sept/view/todo_screen.dart';
 import 'package:flutter/material.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 void main() {
   runApp(const MyApp());
